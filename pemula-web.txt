@@ -1,4 +1,4 @@
 Pemula web
 - belajar  html dasar
-- belajar  CSS
 - belajar php dasar
+- belajar frame work css : bootstrap
